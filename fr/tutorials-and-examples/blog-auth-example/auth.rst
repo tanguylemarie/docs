@@ -141,7 +141,7 @@ Pour ajouter ce component à votre application, ouvrez votre fichier
     namespace App\Controller;
 
     use Cake\Controller\Controller;
-    use Cake\Event\Event;
+    use Cake\Event\EventInterface;
 
     class AppController extends Controller
     {
